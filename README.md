@@ -1,14 +1,20 @@
 # [apex-legends-rpc][apex-legends-rpc]
 
-An unofficial Discord Rich Presence client for Apex Legends.
+An unofficial Discord Rich Presence client for Apex Legends (Steam only).
+
+# Setup
+
+WIP
 
 # Status
 
 WIP
 
-# Usage
+# Todo
 
-WIP
+- Parse the actual RPC data
+- Upload assets
+- Have a handler for if Apex isn't launched
 
 # License
 

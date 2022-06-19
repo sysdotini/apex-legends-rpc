@@ -2,13 +2,13 @@
 config.json
 config.toml
 application.yml
-config.ts
 
 # Binaries
 *.jar
 *.exe
 
 # Database
+data/
 *db.json
 *.db
 rethinkdb_data/
